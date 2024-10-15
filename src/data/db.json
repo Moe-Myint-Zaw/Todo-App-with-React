@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "0.5249536718588252",
+      "title": "First todo",
+      "completed": false
+    },
+    {
+      "id": "0.9102561973126648",
+      "title": "Second todo",
+      "completed": false
+    },
+    {
+      "id": "0.9337706845373557",
+      "title": "Third todo",
+      "completed": false
+    }
+  ]
+}
